@@ -7,7 +7,7 @@
 - Прикладный задачи (Распознавание лиц, жестов, движений, Machine Learning и др.)
 
 ##### Используемые инструменты:
-- OpenCV 3.1.0 (opencv.org)
+- [OpenCV 3.1.0][opencv]
 - Python 2.x
 - C++11
 - Java 1.8
@@ -31,3 +31,4 @@
 
 <!-- LINKS -->
 [opencv_installing]: https://github.com/Somal/CV-UI.git
+[opencv]: https://opencv.org
