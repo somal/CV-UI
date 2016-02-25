@@ -12,6 +12,8 @@ __Основный язык__ - Python, но также присутствуют
 
 ### [Способ 2][second_variant]
 
+### [Способ 3 (попробуйте-с виду неплохой)][third_variant]
+
 ## Установка OpenCV под Windows
 Вот [тут][off_installing_opencv_on_windows] официальный туториал. 
 Вот [тут][unoff_installing_opencv_on_windows] лежит установщик. Кстати, на этой страничке много библиотек, собранных в исполняемые файлы, что очень облегчает работу на Python on Windows.
@@ -37,3 +39,4 @@ __Основный язык__ - Python, но также присутствуют
 [second_variant]: http://milq.github.io/install-opencv-ubuntu-debian/
 [off_installing_opencv_on_windows]: http://docs.opencv.org/3.1.0/d5/de5/tutorial_py_setup_in_windows.html#gsc.tab=0
 [unoff_installing_opencv_on_windows]: http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+[third_variant]: https://github.com/sgjava/install-opencv
