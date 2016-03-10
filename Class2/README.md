@@ -29,8 +29,8 @@
 [Grayscale]: https://en.wikipedia.org/wiki/Grayscale
 [string_format]:https://docs.python.org/2/library/string.html#format-examples
 [copy_in_python]:https://docs.python.org/2/library/copy.html
-[roi_image_ex]: ./examples/roi_image.py
-[change_color_ex]: ./examples/change_color.py
-[crope_with_mouse]: ./examples/crope_image_with_mouse.py
-[find_blue_objects]: ./exmples/find_blue_objects.py
+[roi_image_ex]: ./src/roi_image.py
+[change_color_ex]: ./src/change_color.py
+[crope_with_mouse]: ./src/crope_image_with_mouse.py
+[find_blue_objects]: ./src/find_blue_objects.py
 [HSV]: https://en.wikipedia.org/wiki/HSL_and_HSV
