@@ -18,7 +18,7 @@ if __name__ == '__main__':
             first_coordinates[0] = x
             first_coordinates[1] = y
 
-    img = cv2.imread('test2.jpg')
+    img = cv2.imread('test.jpg')
     img2 = img[0:10, 0:10]
     cv2.namedWindow('Original')
     cv2.setMouseCallback('Original', get_x_y)
