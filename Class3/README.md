@@ -1,0 +1,4 @@
+- Морфология http://docs.opencv.org/3.1.0/d9/d61/tutorial_py_morphological_ops.html#gsc.tab=0
+- Попробовать разделить самим (поиском)
+- resize() http://docs.opencv.org/3.1.0/da/d54/group__imgproc__transform.html#ga47a974309e9102f5f08231edc7e7529d&gsc.tab=0
+- градиенты и контуры
