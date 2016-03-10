@@ -31,5 +31,5 @@
 
 
 <!-- LINKS -->
-[opencv_installing]: https://github.com/Somal/CV-UI.git
+[opencv_installing]: https://github.com/Somal/CV-UI/blob/master/docs/OpenCV_installing.md
 [opencv]: https://opencv.org
