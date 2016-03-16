@@ -41,13 +41,13 @@
 
 По возникшим вопросам, писать в телеграме: @piaxar , @Somal1996
 
-[image_erosion]:./src/image_erosion.py
-[video_erosion]:./src/video_erosion.py
-[video_dilation]:./src/video_dilation.py
-[video_opening]:./src/video_opening.py
-[sobel_conturs]:./src/sobel_conturs.py
-[laplscian_conturs]:./src/laplscian_conturs.py
-[canny_edge_detector]:./src/canny_edge_detector.py
+[image_erosion]:./scr/image_erosion.py
+[video_erosion]:./scr/video_erosion.py
+[video_dilation]:./scr/video_dilation.py
+[video_opening]:./scr/video_opening.py
+[sobel_conturs]:./scr/sobel_conturs.py
+[laplscian_conturs]:./scr/laplscian_conturs.py
+[canny_edge_detector]:./scr/canny_edge_detector.py
 [how_to_erosion]:http://homepages.inf.ed.ac.uk/rbf/HIPR2/erode.htm
 [how_to_dilation]:http://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm
 [how_to_sobel]:https://habrahabr.ru/post/128753/
