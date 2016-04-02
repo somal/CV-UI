@@ -28,7 +28,7 @@ P.S. в этом туториале количество примеров све
 [hough_transform]:https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A5%D0%B0%D1%84%D0%B0
 [stereo_tutor]:http://docs.opencv.org/3.1.0/d9/db7/tutorial_py_table_of_contents_calib3d.html#gsc.tab=0 
 [hough_py]:./src/hough.py
-[slam_some]:/src/slam.pdf
+[slam_some]:http://is.ifmo.ru/diploma-theses/2010/bachelor/rodikov-bachelor.pdf
 [slam_somesome]:http://my-it-notes.com/2013/01/slam-basis-and-links-at-open-source/
 [hough2_py]:./src/hough2.py
 [hough_tutor]:http://docs.opencv.org/3.1.0/d6/d10/tutorial_py_houghlines.html#gsc.tab=0
